@@ -1,2 +1,2 @@
 # FourFuncCalc
-Simple 4 function calculator made using Java GUI for Object Oriented Programming class.
+Simple 4 function calculator made using Java GUI for my Object Oriented Programming class.
